@@ -4,12 +4,12 @@
         <title>SFK NetForge</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Sun, 08 Nov 2026 09:19:14 +0200</pubDate>
+            <pubDate>Tue, 10 Nov 2026 15:53:25 +0200</pubDate>
             <link>https://github.com/nisfikas/sfk-netforge-updates</link>
-            <sparkle:version>133</sparkle:version>
-            <sparkle:shortVersionString>0.1.0-beta.3</sparkle:shortVersionString>
+            <sparkle:version>222</sparkle:version>
+            <sparkle:shortVersionString>0.1.0-beta.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/nisfikas/sfk-netforge-updates/releases/download/v0.1.0-beta.3/SFK-NetForge-0.1.0-beta.3.dmg" length="16148094" type="application/octet-stream" sparkle:edSignature="pEdfcY+i6l/XniQnTTGHKl5jikc8nhg90OWLAWXuGaSlM51wzjaIebuZOZqNlFQBOwDI8XH4ugAz+HnbGbNuBg=="/>
+            <enclosure url="https://github.com/nisfikas/sfk-netforge-updates/releases/download/v0.1.0-beta.4/SFK-NetForge-0.1.0-beta.4.dmg" length="20518646" type="application/octet-stream" sparkle:edSignature="vqy3Lj53np+vRk6JGECo6CVFjQEX2iNoFXFo2m8n6cpnaHklbxCyvIoAf3iZsEUKdhwkHNt1pdtIquOnkQvVBg=="/>
         </item>
     </channel>
 </rss>
