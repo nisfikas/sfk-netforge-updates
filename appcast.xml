@@ -4,12 +4,12 @@
         <title>SFK IPtools</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Wed, 11 Nov 2026 10:01:19 +0200</pubDate>
+            <pubDate>Wed, 11 Nov 2026 10:19:12 +0200</pubDate>
             <link>https://github.com/nisfikas/sfk-netforge-updates</link>
-            <sparkle:version>282</sparkle:version>
-            <sparkle:shortVersionString>0.1.0-beta.6</sparkle:shortVersionString>
+            <sparkle:version>294</sparkle:version>
+            <sparkle:shortVersionString>0.1.0-beta.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/nisfikas/sfk-netforge-updates/releases/download/v0.1.0-beta.6/SFK-IPtools-0.1.0-beta.6.dmg" length="22005425" type="application/octet-stream" sparkle:edSignature="q7FWNCNWZFfdDhXmGB5ht+oZXxUxiMyznKdp4sCSL0KV4BrQ861wiPKdkuVAFDoCeqyZrM75SPAJTKaXtA5NBg=="/>
+            <enclosure url="https://github.com/nisfikas/sfk-netforge-updates/releases/download/v0.1.0-beta.7/SFK-IPtools-0.1.0-beta.7.dmg" length="22163451" type="application/octet-stream" sparkle:edSignature="81WO0CJdbS44QPWTWjwO+UaqR6HDEpI8muQibuWVEjNr7Zd694TArn0ttPj88yD4tBtCbKf+7dQMThfztsulDA=="/>
         </item>
     </channel>
 </rss>
