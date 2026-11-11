@@ -1,15 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>SFK NetForge</title>
+        <title>SFK IPtools</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Tue, 10 Nov 2026 16:47:10 +0200</pubDate>
+            <pubDate>Wed, 11 Nov 2026 10:01:19 +0200</pubDate>
             <link>https://github.com/nisfikas/sfk-netforge-updates</link>
-            <sparkle:version>226</sparkle:version>
-            <sparkle:shortVersionString>0.1.0-beta.5</sparkle:shortVersionString>
+            <sparkle:version>282</sparkle:version>
+            <sparkle:shortVersionString>0.1.0-beta.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/nisfikas/sfk-netforge-updates/releases/download/v0.1.0-beta.5/SFK-NetForge-0.1.0-beta.5.dmg" length="20531361" type="application/octet-stream" sparkle:edSignature="hyLYgVlIJH1ASgtgnTHw3Fydm63C9qxRX2pOgumGNQtq9puOe6CP19323xncNolO2k6Nmc/b7MHSp3d5+U57Bg=="/>
+            <enclosure url="https://github.com/nisfikas/sfk-netforge-updates/releases/download/v0.1.0-beta.6/SFK-IPtools-0.1.0-beta.6.dmg" length="22005425" type="application/octet-stream" sparkle:edSignature="q7FWNCNWZFfdDhXmGB5ht+oZXxUxiMyznKdp4sCSL0KV4BrQ861wiPKdkuVAFDoCeqyZrM75SPAJTKaXtA5NBg=="/>
         </item>
     </channel>
 </rss>
